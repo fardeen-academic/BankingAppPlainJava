@@ -1,6 +1,6 @@
-# BankingSystemJavaFx
+# BankingSystemJava
 
-Simple Banking System Using JavaFx for Course "CSE 204" of "University of Asia Pacific"
+Simple Banking System (Command Line App) Using Plain Java for Course "CSI 234 - Advance Programming Sessional" of "Stamford University Bangladesh"
 
 ## Getting Started
 
